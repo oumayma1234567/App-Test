@@ -56,20 +56,7 @@ app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
 })
 
-// app.get('*', (req, res) => {
-//     res.sendFile(path.join(__dirname, 'public/index.html'));
-// })
-// app.get('/',(req,res)=>{
-//     res.send("<h1>Oumaima</h1>")
-// })
 
 
 
-// app.get('/',(req,res)=>{
-//     res.send("Hello")
-// })
 
-// app.listen(3000, (err)=>{
-//     if(err) console.log("server err")
-//     else console.log("server is running on port 3000")
-// })

@@ -1,4 +1,4 @@
-module.exports = {
-    mongoURI: "mongodb://localhost:27017/mevn_auth",
-    secret: 'yoursecret'
-};
+// module.exports = {
+//     mongoURI: "mongodb://localhost:27017/mevn_auth",
+//     secret: 'yoursecret'
+// };
